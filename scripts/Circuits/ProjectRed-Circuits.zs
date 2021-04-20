@@ -1,0 +1,2 @@
+furnace.remove(<ore:itemSilicon>);
+

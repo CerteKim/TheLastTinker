@@ -1,0 +1,11 @@
+item.contenttweaker.basiccontrolcircuit.name=基础控制电路半成品
+item.contenttweaker.advancedcontrolcircuit.name=高级控制电路半成品
+item.contenttweaker.elitecontrolcircuit.name=精英控制电路半成品
+item.contenttweaker.ultimatecontrolcircuit.name=终极控制电路半成品
+
+tile.contenttweaker.sandmold.name=砂型
+tile.contenttweaker.machineframesandmold.name=机械框架砂型
+tile.contenttweaker.standardmachineframesandmold.name=基础机械框架砂型
+
+tile.contenttweaker.machineframepattern.name=机械框架模具
+tile.contenttweaker.standardmachineframepattern.name=基础机械框架模具

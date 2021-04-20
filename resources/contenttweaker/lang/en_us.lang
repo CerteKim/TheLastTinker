@@ -1,0 +1,11 @@
+item.contenttweaker.basiccontrolcircuit.name=Undone Basic Control Circuit
+item.contenttweaker.advancedcontrolcircuit.name=Undone Advanced Control Circuit
+item.contenttweaker.elitecontrolcircuit.name=Undone Elite Control Circuit
+item.contenttweaker.ultimatecontrolcircuit.name=Undone Ultimate Control Circuit
+
+tile.contenttweaker.sandmold.name=Sand Mold
+tile.contenttweaker.machineframesandmold.name=Sand Mold of Machine Frame
+tile.contenttweaker.standardmachineframesandmold.name=Sand Mold of Standard Machine Frame
+
+tile.contenttweaker.machineframepattern.name=Machine Frame Pattern
+tile.contenttweaker.standardmachineframepattern.name=Standard Machine Frame Pattern

@@ -1,0 +1,11 @@
+recipes.addShaped(<contenttweaker:basiccontrolcircuit>, [[null, null, null],[<opencomputers:material:6>, <minecraft:quartz>, <opencomputers:material:6>], [<projectred-core:resource_item:1>, <projectred-core:resource_item:20>, <projectred-core:resource_item:1>]]);
+recipes.addShaped(<contenttweaker:basiccontrolcircuit>, [[<opencomputers:material:6>, <minecraft:quartz>, <opencomputers:material:6>],[<projectred-core:resource_item:1>, <projectred-core:resource_item:20>, <projectred-core:resource_item:1>], [null, null, null]]);
+
+recipes.addShaped(<contenttweaker:advancedcontrolcircuit>, [[null, null, null],[<opencomputers:material:6>, <opencomputers:material:7>, <opencomputers:material:6>], [<projectred-core:resource_item:2>, <projectred-core:resource_item:20>, <projectred-core:resource_item:2>]]);
+recipes.addShaped(<contenttweaker:advancedcontrolcircuit>, [[<opencomputers:material:6>, <opencomputers:material:7>, <opencomputers:material:6>],[<projectred-core:resource_item:2>, <projectred-core:resource_item:20>, <projectred-core:resource_item:2>], [null, null, null]]);
+
+recipes.addShaped(<contenttweaker:elitecontrolcircuit>, [[<opencomputers:material:7>, <opencomputers:material:8>, <opencomputers:material:7>],[<projectred-core:resource_item:2>, <projectred-core:resource_item:20>, <projectred-core:resource_item:2>], [null, null, null]]);
+recipes.addShaped(<contenttweaker:elitecontrolcircuit>, [[null, null, null],[<opencomputers:material:7>, <opencomputers:material:8>, <opencomputers:material:7>], [<projectred-core:resource_item:2>, <projectred-core:resource_item:20>, <projectred-core:resource_item:2>]]);
+
+recipes.addShaped(<contenttweaker:ultimatecontrolcircuit>, [[<opencomputers:material:8>, <opencomputers:material:9>, <opencomputers:material:8>],[<projectred-core:resource_item:2>, <projectred-core:resource_item:20>, <projectred-core:resource_item:2>], [null, null, null]]);
+recipes.addShaped(<contenttweaker:ultimatecontrolcircuit>, [[null, null, null],[<opencomputers:material:8>, <opencomputers:material:9>, <opencomputers:material:8>], [<projectred-core:resource_item:2>, <projectred-core:resource_item:20>, <projectred-core:resource_item:2>]]);

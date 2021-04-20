@@ -1,0 +1,3 @@
+recipes.addShaped(<contenttweaker:sandmold:*> * 8, [[<minecraft:gravel>, <minecraft:sand>, <minecraft:gravel>],[<minecraft:sand>, <minecraft:clay_ball>, <minecraft:sand>], [<minecraft:gravel>, <minecraft:sand>, <minecraft:gravel>]]);
+recipes.addShapeless(<contenttweaker:machineframesandmold>, [<contenttweaker:sandmold>, <contenttweaker:machineframepattern>]);
+recipes.addShapeless(<contenttweaker:standardmachineframesandmold>, [<contenttweaker:sandmold>, <contenttweaker:standardmachineframepattern>]);

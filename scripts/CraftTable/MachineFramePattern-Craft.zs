@@ -1,0 +1,2 @@
+recipes.addShaped(<contenttweaker:machineframepattern>, [[<minecraft:stick>, <minecraft:glass_pane>, <minecraft:stick>],[<minecraft:glass_pane>, <projectred-relocation:frame>, <minecraft:glass_pane>], [<minecraft:stick>, <minecraft:glass_pane>, <minecraft:stick>]]);
+recipes.addShaped(<contenttweaker:standardmachineframepattern>, [[<minecraft:stick>, <minecraft:planks>, <minecraft:stick>],[<minecraft:planks>, <projectred-relocation:frame>, <minecraft:planks>], [<minecraft:stick>, <minecraft:planks>, <minecraft:stick>]]);
